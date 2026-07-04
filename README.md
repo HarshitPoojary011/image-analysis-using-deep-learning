@@ -81,4 +81,4 @@ jupyter notebook
 
 **Harshit J Poojary**  
 BE — Artificial Intelligence & Machine Learning  
-[LinkedIn](https:www.linkedin.com/in/harshit-j-poojary-46556a363) | [GitHub](https://github.com/HarshitPoojary011)
+[LinkedIn](https:www.linkedin.com/in/harshit-j-poojary-46556a363/) | [GitHub](https://github.com/HarshitPoojary011)
